@@ -1,14 +1,21 @@
 # Бот Telegram 
-для вивчення української літератури на ЗНО-2018
+для вивчення української літератури на ЗНО-2018 у вигляді тестування
 
 ## Функціонал:
   * Твір - вгадати твір за автором 
   * Автор - вгадати автора твору 
   * Жанр - вгадати жанр твору
 
+##Початок роботи / Вибір типу тестування
 ![initial](https://image.ibb.co/bRkVZS/initial.png)
-![initial](https://image.ibb.co/ehLxES/2.png)
-![initial](https://image.ibb.co/e5hYon/3.png)
-![initial](https://image.ibb.co/moFVZS/4.png)
+
+##Меню відповіді на запитання
+![2](https://image.ibb.co/ehLxES/2.png)
+
+##У разі ✅правильної відповіді
+![3](https://image.ibb.co/e5hYon/3.png)
+
+##У разі ❌неправильної відповіді
+![4](https://image.ibb.co/moFVZS/4.png)
 
 
